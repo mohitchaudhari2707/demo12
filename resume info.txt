@@ -1,0 +1,61 @@
+PRN :           210941220050
+EmailId         mohitchaudhari2707@gmail.com
+MobileNo        7776075203
+Alternate mob.  7776075203
+Addresss        1A-A 301 Shubhashree Residency phase3 Akurdi'
+Nationality     Indian
+STD Code        0212
+
+
+pernamanent address
+adress          Pilode Bk post.Anjale Tal-Yawal, Dist-Jalgaon
+STD Code        02585
+
+
+Qualification 
+
+SSC
+
+institute    Shree Swaminarayan Gurukul Sanstha Savada,tal- Raver, Dist-Jalgaon, Maharastra
+Board        Maharastra State Board
+Sprcialisation General
+Obtained Marks -- 408
+Total Marks    -- 550
+Percentage   --   74.18%
+Passing      --   2013
+
+Hsc
+
+institute    Devidas Namdev Bhole College,Bhusawal,Dist- jalgaon Maharastra 
+Board        Maharastra State Board
+Sprcialisation General
+Obtained Marks -- 517
+Total Marks    -- 660
+Percentage   --  79.54%
+Passing      --  2015
+
+
+
+Degree
+
+Total Backlog 2
+
+
+project ---- duration 6 month
+
+title:   Enhancement of forced convection heat Transfer rate in Stationary Passage By Using Multi Semicircular Ribs With Dimples   
+
+The purpose of this project is to increase heat tranfer rate of turbine blade with using different shape of ribs and dimple on plate. Gas turbine, as a prime mover, Find a wide range of aplications in the industrial world thoday, Therefore it is important to develope highly efficient gas turbine  using latest state of the art technologies. one of the taditional method that is PASSIVE technique used to improve teh effieciency of gas turbine isto increase the inlet temperature , thereby increasng the power output and in turn the efficiency. The problem associated with increasing the inlet temperature of a gas turbine is the failure of material due to excessive thermal stresses. This brings in the concept of cooling turbine blade to incorporate to increase the effieciency and inlet temperature.
+The two main method of cooling - Active Cooling Techniques and Passive Cooling Techniques
+In active TEchniques-- it requires external power such as electric or acoustic fields and surface vibration and it increases capital and operating cost so beacause of that this technique not found commercial interest. 
+so we used passive techniques in that aslo three methods that is, 1.Jet impingement cooling, 2. Rib-Turbilated Cooling 3. End Cooling
+In that traditional method is a jet impingement(use medium as a water, coolant)and because of that material rust and wear rate is very high so to prevent this problem and also want to work turbine efficiently at very high inlet temperature,from onwards our work start to develope efficient cooling method.
+our project is totally experiement base, we used Rib-turbulated Cooling with Dimple method(Passive Technique),so for increasing surface area of blade we can use different shape of ribs,so after seeing all results and by refering research paper V-shaped or Semi_circular ribs gives best performance to reduce temprature on fins.
+we used Semi-Circular Ribs with dimples on that and material is a steel alloy. the setup requires Blower,Alluminium Duct,Orifice meter, vertical U-tube manomater,Heater, Thermocouple, pressure measuring device, glass wool.
+To start the experimentation we provide constant heat flux and different reynolds no, firstly start blower then after providing heat from heater gradually at specific point, then constant heat flux provide. measuring pressure drop across orifice meter and test duct, once we reach to steady state, following observations noted of 12 thermocouples placed at constant distance across plate. and that is moto of this project.
+
+Conclusion- By using Ribs of Semicircular shaped with equally spaced dimples reduces temperature till last point and increases heat transfer rate upto 10% by comparing plane plate, it prevents wear rate of turbine blade which is very common in industry
+
+  
+
+
